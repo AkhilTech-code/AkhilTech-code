@@ -1,45 +1,25 @@
-Hi, I'm Your Name 👋
+Hi, I'm Akhil 👋
 
-Aspiring Full-Stack Developer (Python & React)
-Currently learning and building projects using modern web technologies 🚀
+Aspiring Full-Stack Developer
+Learning Python, HTML, CSS, JavaScript & React 🚀
 
-🌱 Learning Python, HTML, CSS, JavaScript, React
+🌱 Currently learning and building small projects
 
-🔨 Practicing by building small projects & UI components
+🔨 Practicing frontend & basic Python programs
 
-📘 Exploring Git, GitHub & basic REST APIs
+📘 Exploring Git, GitHub & web basics
 
-🎯 Goal: Become a job-ready Full-Stack Developer
+🎯 Goal: Become a job-ready developer
 
-📧 Email: akhilgangapuram90@gmail.com
+🛠 Tech Stack
 
-🛠 Tech Stack (Learning & Practicing)
+Python • HTML • CSS • JavaScript • React
+Git • GitHub • VS Code
 
-Languages: Python, JavaScript
+🚀 Projects
 
-Frontend: HTML, CSS, React
+To-Do App (HTML, CSS, JS)
 
-Tools: Git, GitHub, VS Code
+React Practice Projects
 
-Basics: REST APIs, Responsive Design
-
-🚀 Projects (Learning Phase)
-
-To-Do App – HTML, CSS, JavaScript
-
-React Practice App – Components, Props, State
-
-Python Mini Projects – Basics, Logic building
-
-(More projects coming soon 🚧)
-
-📈 What I'm Working On
-
-Improving JavaScript & React concepts
-
-Writing clean and readable code
-
-Uploading projects regularly to GitHub
-
-⭐ “Every expert was once a beginner”
-
+Python Mini Projects
